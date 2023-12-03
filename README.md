@@ -1,6 +1,3 @@
-Absolutely, here's an example of a README.md file tailored for a CodeIgniter 4 project:
-
-````markdown
 # CodeIgniter 4 Project
 
 Welcome to our CodeIgniter 4 project repository! This project aims to [briefly describe project goal or purpose].
@@ -54,7 +51,6 @@ To run the project locally, use the following command:
 ```bash
 php spark serve
 ```
-````
 
 Visit `http://localhost:8080` in your web browser to access the application.
 
