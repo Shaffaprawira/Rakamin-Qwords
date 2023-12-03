@@ -1,21 +1,80 @@
-# Example of final task QWords Fullstack Developer
-Please do not copy paste this code, make sure you can use creativity ur self to finish final task.
+Absolutely, here's an example of a README.md file tailored for a CodeIgniter 4 project:
 
-## How To Runs
-just clone into the folder that you want, then runs command below (make sure u're install php 7 or higher)
+````markdown
+# CodeIgniter 4 Project
 
-```php spark serve```
+Welcome to our CodeIgniter 4 project repository! This project aims to [briefly describe project goal or purpose].
 
-## Server Requirements
+![Project Logo](link/to/your/logo.png)
 
-PHP version 7.4 or higher is required, with the following extensions installed:
+## Table of Contents
 
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Additionally, make sure that the following extensions are enabled in your PHP:
+## About
 
-- json (enabled by default - don't turn it off)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
-# Rakamin-Qwords
+This project utilizes CodeIgniter 4, PHP 7.4, and [mention any other relevant technologies]. Feel free to explore our codebase to understand how we've structured this project.
+
+## Features
+
+- **Feature 1:** Describe feature 1 briefly.
+- **Feature 2:** Describe feature 2 briefly.
+- **Feature 3:** Describe feature 3 briefly.
+
+## Installation
+
+Follow these steps to get the project up and running on your local machine:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   composer install
+   ```
+
+3. Configure environment variables:
+
+   Copy `.env.example` to `.env` and update the necessary configurations.
+
+## Usage
+
+To run the project locally, use the following command:
+
+```bash
+php spark serve
+```
+````
+
+Visit `http://localhost:8080` in your web browser to access the application.
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/improvement`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/improvement`).
+5. Create a new Pull Request.
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+```
+
+Feel free to adjust the sections, add or remove details, and include images or badges as needed to suit your project's specifics. This template is a starting point that you can personalize to better represent your CodeIgniter 4 project on GitHub.
+```
