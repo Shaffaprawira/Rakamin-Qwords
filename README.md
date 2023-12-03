@@ -1,6 +1,6 @@
 Apologies for the oversight! Here's an updated README that includes instructions on how to run the project:
 
-```markdown
+
 # CodeIgniter 4 Project
 
 Welcome to our CodeIgniter 4 project repository! This project aims to [briefly describe project goal or purpose].
@@ -52,6 +52,3 @@ Visit `http://localhost:8080` in your web browser to access the application.
 ## Template Source
 
 This README template is a starting point to showcase your CodeIgniter 4 project on GitHub. Feel free to customize it to better represent your project.
-```
-
-This revised README now includes a section specifically detailing how to run the project locally using `php spark serve` and access it through a web browser. Adjust the instructions to match any specific commands or configurations needed for your project.
