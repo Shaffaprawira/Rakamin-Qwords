@@ -15,24 +15,24 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
-    ```
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+   ```
 
 2. Install dependencies:
 
-    ```bash
-    composer install
-    ```
+   ```bash
+   composer install
+   ```
 
 3. Configure environment variables:
-   
+
    Copy `.env.example` to `.env` and update the necessary configurations.
 
 ## Tech Stack
 
-This project utilizes CodeIgniter 4, PHP 7.4, and [mention any other relevant technologies]. Feel free to explore our codebase to understand how we've structured this project.
+This project utilizes CodeIgniter 4, PHP 8.1.10, and Bootstrap 5.
 
 ## Running the Project
 
@@ -46,4 +46,4 @@ Visit `http://localhost:8080` in your web browser to access the application.
 
 ## Template Source
 
-This README template is a starting point to showcase your CodeIgniter 4 project on GitHub. Feel free to customize it to better represent your project.
+The template used for this project can be found [here](https://github.com/balbalcode/rakamin-qwords-ci).
