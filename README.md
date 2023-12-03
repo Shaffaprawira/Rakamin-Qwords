@@ -1,11 +1,6 @@
-Apologies for the oversight! Here's an updated README that includes instructions on how to run the project:
+# Redesign Landing Page Project
 
-
-# CodeIgniter 4 Project
-
-Welcome to our CodeIgniter 4 project repository! This project aims to [briefly describe project goal or purpose].
-
-![Project Logo](link/to/your/logo.png)
+Welcome to my Qwords x Rakamin Academy Fullstack Developer Final Project repository! This project aims to be the final project of my project-based internship, where participants are tested to create a landing page. This is done to prepare participants when they later have to apply their fullstack developer knowledge in other companies.
 
 ## Table of Contents
 
