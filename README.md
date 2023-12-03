@@ -16,8 +16,8 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Shaffaprawira/Rakamin-Qwords.git
+   cd Rakamin-Qwords
    ```
 
 2. Install dependencies:
