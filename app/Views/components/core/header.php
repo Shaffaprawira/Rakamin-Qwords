@@ -59,7 +59,6 @@
   document.addEventListener("DOMContentLoaded", function () {
   el_autohide = document.querySelector(".autohide");
 
-  // add padding-top to bady (if necessary)
   navbar_height = document.querySelector(".navbar").offsetHeight;
   document.body.style.paddingTop = navbar_height + "px";
 
@@ -76,12 +75,8 @@
       }
       last_scroll_top = scroll_top;
     });
-    // window.addEventListener
   }
-  // if
 });
-// DOMContentLoaded  end
-
 </script>
 
 <!-- <script src="../../../../public/assets/js/custom.js"></script> -->
